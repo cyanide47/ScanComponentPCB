@@ -1,4 +1,4 @@
-ScanComponentPCB
+ScanComponentPCB : Find missing electronics component on electronic card
 ================
 
 This software is used for verify if there are a missing component on the SmoothieBoard electronic card .
